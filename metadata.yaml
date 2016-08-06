@@ -1,0 +1,45 @@
+_repo: Traffics-and-Discoveries_9790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Indhold: From the Masjid-al-Aqsa of Sayyid Ahmed (Wahabi) ; The captive
+  ; Poseidon''s law ; The bonds of discipline ; The runners ; A Sahib''s war ; The
+  wet litany ; Their lawful occasions, part I and part II ; The King''s task ; The
+  comprehension of private copper ; The necessitarian ; Steam tactics ; Kaspar''s
+  song in Varda ; Wireless ; Song of the old guard ; The army of a dream, part I and
+  part II ; The return of the children ; They. From Lydens̀ Irenius. Mrs. Bathurst
+  ; Our fathers also ; Below the mill dam'
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcsh 'English poetry'
+- !lcsh 'Armed Forces -- Fiction'
+- GITenberg
+tableOfContents: From the Masjid-al-aqsa of Sayyid Ahmed (Wahabi) -- The captive --
+  Poseidon's law -- The bonds of discipline -- The runner -- A sahibs' war -- The
+  wet litany -- "Their lawful occasions", part I -- "Their lawful occasions", part
+  II -- The king's task -- The comprehension of Private Cooper -- The necessitarian
+  -- Steam tactics -- Kaspar's song in "Varda" -- "Wireless" -- Song of the old guard
+  --The army of a dream, part I -- The army of a dream, part II -- The return of the
+  children -- "They" -- From Lyden's "Irenius" -- Mrs. Bathurst -- "Our fathers also"
+  -- Below the mill dam.
+title: Traffics and Discoveries
+url: http://www.gutenberg.org/ebooks/9790
