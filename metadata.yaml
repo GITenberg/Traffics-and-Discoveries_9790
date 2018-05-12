@@ -1,5 +1,8 @@
 _repo: Traffics-and-Discoveries_9790
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -18,6 +21,8 @@ description: 'Indhold: From the Masjid-al-Aqsa of Sayyid Ahmed (Wahabi) ; The ca
   song in Varda ; Wireless ; Song of the old guard ; The army of a dream, part I and
   part II ; The return of the children ; They. From Lydens̀ Irenius. Mrs. Bathurst
   ; Our fathers also ; Below the mill dam'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9790#Traffics-and-Discoveries
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
